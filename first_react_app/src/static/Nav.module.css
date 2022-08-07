@@ -1,0 +1,30 @@
+.nav{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    width:1700px;
+    position:sticky;
+    top:0px;
+    left:0px;
+    background-color:rgb(174, 153, 237);
+    margin-bottom: 30px;
+    color:rgb(62, 58, 58);
+}
+
+.logo{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    display:flex;
+    background-color:gray;
+    justify-content:center;
+    align-items: center;
+}
+
+ul{
+    display:flex;
+    list-style-type: none;
+    justify-content:space-around;
+    flex-direction: row;
+    flex: 0.5;
+}

@@ -1,0 +1,8 @@
+.container{
+    min-height: 100vw;
+    min-width: none;
+    background-color:rgb(212, 182, 208);
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
